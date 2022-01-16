@@ -86184,8 +86184,8 @@ r.I(new U.ate(r))
 s=t.P
 r.a.f_$.wN().aE(0,new U.atf(r),s)
 r.a.f_$.wM().aE(0,new U.atg(r),s)},
-B(a,b){var s=this,r=null,q=s.a.c,p=H.b([""],t.i),o=s.a.d.f
-return U.us(r,T.cg(H.b([s.a8X()],t.t),C.aQ,C.u,C.v),q,1,new U.ata(s,b),H.b([C.b.T(s.f,s.e)],t.Uj),185,r,!1,70,r,r,r,r,0,p,o)},
+B(a,b){var s=this,r=null,q=s.a.c,p=H.b([""],t.i)
+return U.us(r,T.cg(H.b([s.a8X()],t.t),C.aQ,C.u,C.v),q,1,new U.ata(s,b),H.b([C.b.T(s.f,s.e)],t.Uj),185,r,!1,65,r,r,r,r,0,p,"\u30d7\u30ed\u30d5\u30a3\u30fc\u30eb")},
 a8X(){var s,r,q=this,p=null,o=H.b([],t.t)
 if(q.d)o.push(new T.aQ(new V.a_(5,5,5,5),L.da(C.nt,C.m,p),p))
 s=q.d
@@ -86227,8 +86227,8 @@ J.aEA(s,0,"Friends")},
 $S:2}
 U.ata.prototype={
 $2(a,b){var s=null,r=J.iB(b)
-if(r.m(b,"Friends"))return Q.i9(!1,s,s,!0,!1,L.da(C.HS,C.m,s),s,!1,s,s,s,s,L.ai("\u53cb\u9054",s,s,s,K.Y(this.b).M.f,s,s,s),s)
-else if(r.m(b,"FriendRequests"))return Q.i9(!1,s,s,!0,!1,L.da(C.HT,C.m,s),s,!1,s,s,s,s,L.ai("\u53cb\u9054\u7533\u8acb",s,s,s,K.Y(this.b).M.f,s,s,s),s)
+if(r.m(b,"Friends"))return Q.i9(!1,s,s,!0,!1,L.da(C.HS,C.m,25),s,!1,s,s,s,s,L.ai("\u53cb\u9054",s,s,s,K.Y(this.b).M.ch,s,s,s),s)
+else if(r.m(b,"FriendRequests"))return Q.i9(!1,s,s,!0,!1,L.da(C.HT,C.m,25),s,!1,s,s,s,s,L.ai("\u53cb\u9054\u7533\u8acb",s,s,s,K.Y(this.b).M.ch,s,s,s),s)
 else return new T.aQ(new V.a_(0,12,0,12),A.aIm(this.a.a.c,b),s)},
 $S:83}
 U.at7.prototype={
