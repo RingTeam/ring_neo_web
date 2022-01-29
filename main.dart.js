@@ -14386,10 +14386,8 @@ B3:function B3(){var _=this
 _.y=_.x=_.e=_.d=_.c=null},
 aFt(a){var s=new L.a2S(a)
 s.f7(a)
-s.d="https://restapi-neo.p0x0q.com/api/images/cupy/"
 return s},
-a2S:function a2S(a){this.d=null
-this.a=a
+a2S:function a2S(a){this.a=a
 this.b=null},
 As:function As(a,b,c,d,e,f,g,h,i){var _=this
 _.c=a
@@ -85224,7 +85222,7 @@ if(m)r.push(T.c_(M.ap(p,p,C.h,p,p,p,p,p,p,p,p,p,p,p),1))
 r.push(D.cE(p,q.a9a(b,o.f,m),C.A,!1,p,p,p,p,p,p,p,p,p,p,p,new V.aaP(q,b),p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p))
 if(l)r.push(T.c_(M.ap(p,p,C.h,p,p,p,p,p,p,p,p,p,p,p),1))
 return new T.aS(new V.a_(0,10,0,0),Q.i9(!1,p,p,!0,!1,n,p,p,p,!1,p,p,new T.aS(new V.a_(0,10,0,0),T.cH(r,C.iY,C.u,C.v,p),p),p,s,p),p)},
-a9a(a,b,c){var s,r,q,p=null,o=P.c2("https://restapi-neo.p0x0q.com/api/images/cupy/.*.",!0).uJ(0,b)
+a9a(a,b,c){var s,r,q,p=null,o=P.c2("https://s3-ap-northeast-1.amazonaws.com/p0x0q-api-laravel/neo/cupy/.*.",!0).uJ(0,b)
 if(o.gn(o)!==0)return this.a94(b)
 s=a.K(t.w).f
 if(c){r=P.ae(C.d.aJ(178.5),201,202,202)
